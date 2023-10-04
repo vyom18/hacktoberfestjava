@@ -22,6 +22,7 @@ To get started, simply add your name down below, along with the country you're f
 - Sushrut Gupta, India
 - Rudransh Joshi, India
 - Nuwan Alawatta, Sri Lanka
+- Vyom Shah, India
 - Mathesh, India
 - Arsya Adi, Indonesia
 - John Bampton, Australia
